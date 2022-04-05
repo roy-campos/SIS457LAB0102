@@ -28,7 +28,7 @@ int main(){
         cout << "No soy vegetariano, no soy intolerante a la lactosa y no soy intolerante al gluten" << endl;
         cout << "No hice servicio pre-militar" << endl;
         cout << "  " << endl;
-        cout << "Presione 1 para volver a imprimir la biografia" << endl;
+        cout << "Presione 1 para volver a imprimir la biografia o 0 para salir del programa" << endl;
         cin>>num;
     } while (num==1);
     return 0; 
